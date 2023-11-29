@@ -8,7 +8,7 @@ Welcome to my CertTraining repository! HereI'm keeping track of my progress as I
 
 - **Course Title:** Oracle Java Certification - Pass the Associate 1Z0-808 Exam.
 - **Instructor:** Tim Buchalka, Goran Lochert
-- **Course Link:** [Udemy](https://www.udemy.com/course/oracle-java-associate-certification-exam-course-1z0-808/)
+**Course Link:** <a href="https://www.udemy.com/course/oracle-java-associate-certification-exam-course-1z0-808/" target="_blank">Udemy</a>
 
 ## Topics Covered
 
