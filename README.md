@@ -8,7 +8,7 @@ Welcome to my CertTraining repository! HereI'm keeping track of my progress as I
 
 - **Course Title:** Oracle Java Certification - Pass the Associate 1Z0-808 Exam.
 - **Instructor:** Tim Buchalka, Goran Lochert
-- **Course Link:** [Udemy] (https://www.udemy.com/course/oracle-java-associate-certification-exam-course-1z0-808/)
+- **Course Link:** [Udemy](https://www.udemy.com/course/oracle-java-associate-certification-exam-course-1z0-808/)
 
 ## Topics Covered
 
@@ -28,7 +28,7 @@ I'm covering essential Java topics:
 
 ## Certification Exam
 
-Upon completion, I plan to take the [Java SE Programmer I exam (1Z0-808)] (https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808).
+Upon completion, I plan to take the [Java SE Programmer I exam (1Z0-808)](https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808).
 
 ## How to Use This Repository
 
