@@ -3,7 +3,7 @@ package academy.learnprogramming;
 public class MatrixPractice {
     public static void main(String[] args) {
         // The input string containing rates, prices, and lock periods
-        String strRates
+        String strRates = "";
         // Call the parseRatesString method to convert the string into a 2D matrix
         double[][] ratesMatrix = parseRatesString(strRates);
 
