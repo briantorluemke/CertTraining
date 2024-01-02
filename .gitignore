@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-src/learnprogramming/ExamQuestions.java
+src/academy/learnprogramming/ExamQuestions.java
 
 ### Eclipse ###
 .apt_generated
